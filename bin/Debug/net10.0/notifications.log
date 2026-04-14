@@ -1,0 +1,8 @@
+<div><strong>2026-04-07 00:01:12</strong> <p>Событие: CPU_Load_Exceeded, CPU_Load: 85,5 (порог: 80)</p></div>
+<div><strong>2026-04-07 00:01:12</strong> <p>Событие: Memory_Usage_Exceeded, Memory_Usage: 2048 (порог: 1500)</p></div>
+<div><strong>2026-04-07 00:01:12</strong> <p>Событие: Network_Traffic_Exceeded, Network_Traffic: 120 (порог: 100)</p></div>
+<div><strong>2026-04-07 00:01:12</strong> <p>Событие: CPU_Load_Exceeded, CPU_Load: 90 (порог: 80)</p></div>
+<div><strong>2026-04-14 08:35:12</strong> <p>Событие: CPU_Load_Exceeded, CPU_Load: 85,5 (порог: 80)</p></div>
+<div><strong>2026-04-14 08:35:12</strong> <p>Событие: Memory_Usage_Exceeded, Memory_Usage: 2048 (порог: 1500)</p></div>
+<div><strong>2026-04-14 08:35:12</strong> <p>Событие: Network_Traffic_Exceeded, Network_Traffic: 120 (порог: 100)</p></div>
+<div><strong>2026-04-14 08:35:12</strong> <p>Событие: CPU_Load_Exceeded, CPU_Load: 90 (порог: 80)</p></div>
